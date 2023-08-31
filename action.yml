@@ -1,5 +1,5 @@
 # action.yml
-name: 'Hello World Testing'
+name: 'docker container action example'
 description: 'Greet someone and record the time'
 inputs:
   who-to-greet:  # id of input
